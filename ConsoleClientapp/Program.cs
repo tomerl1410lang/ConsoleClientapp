@@ -10,6 +10,7 @@ namespace ConsoleClientapp
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
